@@ -4,3 +4,6 @@ selenium
 requests
 lxml
 countryflag
+seleniumbase
+webdriver-manager
+time
